@@ -67,3 +67,5 @@ class MusicLibraryController
         end
     end
 end
+
+  def 
